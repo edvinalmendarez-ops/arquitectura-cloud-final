@@ -1,0 +1,9 @@
+Jose Ramirez:
+Responsable de la configuración del servidor Linux en AWS EC2.
+
+Tareas:
+- Crear instancia Ubuntu en AWS
+- Conectarse por SSH
+- Instalar Nginx
+- Verificar IP pública
+- Tomar capturas para evidencia
